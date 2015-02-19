@@ -6,3 +6,11 @@ C:\Users\jessica\Documents\GitHub\ConsoleApplication1\ConsoleApplication1\bin\De
 C:\Users\jessica\Documents\GitHub\ConsoleApplication1\ConsoleApplication1\bin\Debug\ClassLibrary1.pdb
 C:\Users\jessica\Documents\GitHub\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\jessica\Documents\GitHub\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\tmetcalf\Documents\GitHub\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\tmetcalf\Documents\GitHub\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\tmetcalf\Documents\GitHub\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\tmetcalf\Documents\GitHub\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\tmetcalf\Documents\GitHub\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\tmetcalf\Documents\GitHub\ConsoleApplication1\ConsoleApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\tmetcalf\Documents\GitHub\ConsoleApplication1\ConsoleApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\tmetcalf\Documents\GitHub\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

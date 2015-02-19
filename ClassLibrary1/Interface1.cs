@@ -12,10 +12,10 @@ namespace ClassLibrary1
     public interface Interface1
     {
         [OperationContract]
-        [WebGet]
+        [WebGet(UriTemplate = "GetMessage/{inputMessage}", ResponseFormat = WebMessageFormat.Json)]
         string GetMessage(string inputMessage);
         [OperationContract]
-        [WebInvoke]
+        [WebInvoke(RequestFormat = WebMessageFormat.Json, ResponseFormat = WebMessageFormat.Json, UriTemplate = "PostMessage/{inputMessage}", Method = "POST", BodyStyle = WebMessageBodyStyle.Wrapped)]
         string PostMessage(string inputMessage);
 
     }
